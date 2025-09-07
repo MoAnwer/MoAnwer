@@ -4,7 +4,7 @@
 # 💫 MoAnwer - dreamer boy with 19 years old
 🖥️ Computer sciences student  <br>
 🌠 Junior Back end engineer <br>
-✅ Junior and big fan Larave dev <br>
+✅ Junior and big fan Laravel dev <br>
 🔭 I’m currently working as Freelancer <br>
 
 
