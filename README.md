@@ -130,7 +130,7 @@ I'm a developer with a strong foundation in **full-stack development**, speciali
 ## 📫 Let's Connect
 
 - **GitHub**: [github.com/MoAnwer](https://github.com/MoAnwer)
-- **Portfolio**: Check out my projects above!
+- **Portfolio**: [moanwer](https://moanwer.netlify.app)
 
 ---
 
