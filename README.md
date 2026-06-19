@@ -37,9 +37,9 @@ I'm a developer with a strong foundation in **full-stack development**, speciali
 
 ## 📚 Featured Projects
 
-## 📱 Strategic Government System
-
+### 📱 Strategic Government System
 - **[Alshahiid](https://github.com/MoAnwer/Alshahiid)** - A Comprehensive Integrated Strategic Government System for Managing Martyr Data, Families, Supervisors, and Injured Personnel
+
 ### 🏫 Educational & School Management
 - **[AL-Mirgani](https://github.com/MoAnwer/AL-Mirgani)** - Integrated accounting system for AL-Mirgani Private Educational Institution (Blade)
 - **[mySchool](https://github.com/MoAnwer/mySchool)** - School Accounts Management System with customizable financial reports (PHP)
@@ -83,8 +83,8 @@ I'm a developer with a strong foundation in **full-stack development**, speciali
 ## 🛠️ Key Skills
 
 **Backend Development**
-- PHP & Laravel (Expert)
-- Java (Intermediate-Advanced)
+- PHP & Laravel
+- Java
 - RESTful API Design & Development
 - Database Design & Optimization
 - Server-side Architecture
@@ -97,10 +97,9 @@ I'm a developer with a strong foundation in **full-stack development**, speciali
 - Livewire Component Development
 
 **Tools & Infrastructure**
-- Docker Containerization
 - Git & Version Control
 - Database Management (MySQL, etc.)
-- Web Deployment (Render, etc.)
+- Web Deployment (Netlify, etc.)
 
 **Specializations**
 - 🎓 Educational Platform Development
@@ -123,9 +122,7 @@ I'm a developer with a strong foundation in **full-stack development**, speciali
 ## 🌱 Currently Learning
 
 - Advanced Laravel patterns and optimization
-- Modern frontend frameworks (Vue.js, React)
 - Cloud infrastructure and DevOps practices
-- Microservices architecture
 
 ---
 
@@ -139,7 +136,7 @@ I'm a developer with a strong foundation in **full-stack development**, speciali
 ## ✨ Fun Facts
 
 - 💡 I love solving complex problems through code
-- 🎓 Passionate about building educational and financial management solutions
+- 🎓 Passionate about building real-world digital solutions
 - 🔍 Always exploring new technologies and best practices
 - 👥 Open to collaboration and learning from others
 
@@ -147,7 +144,7 @@ I'm a developer with a strong foundation in **full-stack development**, speciali
 
 <div align="center">
 
-**Thank you for visiting my GitHub profile! 🙏**
+**Thank you for visiting my GitHub profile!**
 
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or questions!
 
