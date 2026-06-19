@@ -25,8 +25,7 @@ I'm a developer with a strong foundation in **full-stack development**, speciali
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frameworks & Tools
-![Filament PHP](https://img.shields.io/badge/FilamentPHP-3-FDB022?style=for-the-badge)
-![Livewire](https://img.shields.io/badge/Livewire-3-FB70A9?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-FF2D20?style=for-the-badge&logo=git&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
