@@ -37,9 +37,11 @@ I'm a developer with a strong foundation in **full-stack development**, speciali
 
 ## 📚 Featured Projects
 
+## 📱 Strategic Government System
+
+- **[Alshahiid](https://github.com/MoAnwer/Alshahiid)** - A Comprehensive Integrated Strategic Government System for Managing Martyr Data, Families, Supervisors, and Injured Personnel
 ### 🏫 Educational & School Management
 - **[AL-Mirgani](https://github.com/MoAnwer/AL-Mirgani)** - Integrated accounting system for AL-Mirgani Private Educational Institution (Blade)
-- **[CoolSchool](https://github.com/MoAnwer/CoolSchool)** - Comprehensive web-based accounting and management system for schools with financial operations, student fee management, employee payroll, and financial reporting
 - **[mySchool](https://github.com/MoAnwer/mySchool)** - School Accounts Management System with customizable financial reports (PHP)
 - **[Lyman](https://github.com/MoAnwer/Lyman)** - Educational Platform and Website
 - **[TechSchool](https://github.com/MoAnwer/TechSchool)** - Technical school management system (PHP)
