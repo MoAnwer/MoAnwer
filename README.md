@@ -29,10 +29,6 @@ I'm a developer with a strong foundation in **full-stack development**, speciali
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Specializations
-- **Accounting & Financial Systems** | **Educational Platforms** | **E-commerce Solutions**
-- **Database Design & Optimization** | **RESTful APIs** | **Responsive Web Design**
-
 ---
 
 ## 📚 Featured Projects
@@ -44,7 +40,6 @@ I'm a developer with a strong foundation in **full-stack development**, speciali
 - **[AL-Mirgani](https://github.com/MoAnwer/CoolSchool)** - Integrated accounting system for AL-Mirgani Private Educational Institution
 - **[mySchool](https://github.com/MoAnwer/mySchool)** - School Accounts Management System with customizable financial reports (PHP)
 - **[Lyman](https://github.com/MoAnwer/Lyman)** - Educational Platform and Website
-- **[TechSchool](https://github.com/MoAnwer/TechSchool)** - Technical school management app (PHP)
 
 ### 💰 Financial & Transaction Management
 - **[Monexo](https://github.com/MoAnwer/Monexo)** - Money transactions tracker application to help users track their financial situation
@@ -58,20 +53,13 @@ I'm a developer with a strong foundation in **full-stack development**, speciali
 ### 📱 Web & Desktop Applications
 - **[Portfolio](https://github.com/MoAnwer/Protofolio)** - Personal portfolio website (TypeScript)
 - **[File Explorer](https://github.com/MoAnwer/File_Explorer)** - File management application (PHP)
-- **[Notes App](https://github.com/MoAnwer/notes_app)** - Notes management application (CSS)
 - **[JavaSchoolApp](https://github.com/MoAnwer/Java-school-app)** - Java Swing desktop application
-- **[FinalProject](https://github.com/MoAnwer/FinalProject)** - Student management cli app (Java)
 
 ### 🎓 Educational & Learning Projects
 - **[Data Structure Sheets](https://github.com/MoAnwer/Data-structure-Sheets)** - Educational resources (HTML)
 - **[Java Tasks Manager](https://github.com/MoAnwer/Java_tasks_manager)** - Task management cli program (Java)
 - **[Learn Java](https://github.com/MoAnwer/learn_java)** - Java learning repository
 - **[Assembly Projects](https://github.com/MoAnwer/asm)** - Assembly language codes
-
-### 🎨 Frontend Projects
-- **[Bookmark Landing](https://github.com/MoAnwer/Bookmark_landing)** - Landing page
-- **[Fylo](https://github.com/MoAnwer/fylo)** - Cloud storage website
-- **[Zankalone](https://github.com/MoAnwer/zankalone)** - Portfolio website (JavaScript)
 
 ---
 
@@ -88,20 +76,12 @@ I'm a developer with a strong foundation in **full-stack development**, speciali
 - HTML5 & CSS3
 - JavaScript & TypeScript
 - Responsive Web Design
-- UI/UX Implementation
-- Livewire Component Development
+
 
 **Tools & Infrastructure**
 - Git & Version Control
 - Database Management (MySQL, etc.)
 - Web Deployment (Netlify, etc.)
-
-**Specializations**
-- 🎓 Educational Platform Development
-- 💼 Financial & Accounting Systems
-- 🛒 E-commerce Solutions
-- 📊 Data Management & Reporting
-
 ---
 
 ## 📊 GitHub Statistics
@@ -111,30 +91,12 @@ I'm a developer with a strong foundation in **full-stack development**, speciali
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoAnwer&show_icons=true&theme=tokyonight)
 
 </div>
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Laravel patterns and optimization
-- Cloud infrastructure and DevOps practices
-
 ---
 
 ## 📫 Let's Connect
 
 - **GitHub**: [github.com/MoAnwer](https://github.com/MoAnwer)
 - **Portfolio**: [moanwer](https://moanwer.netlify.app)
-
----
-
-## ✨ Fun Facts
-
-- 💡 I love solving complex problems through code
-- 🎓 Passionate about building real-world digital solutions
-- 🔍 Always exploring new technologies and best practices
-- 👥 Open to collaboration and learning from others
-
 ---
 
 <div align="center">
