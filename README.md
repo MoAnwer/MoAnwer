@@ -38,7 +38,7 @@ I'm a developer with a strong foundation in **full-stack development**, speciali
 ## 📚 Featured Projects
 
 ### 📱 Strategic Government System
-- **[Alshahiid](https://github.com/MoAnwer/Alshahiid)** - A Comprehensive Integrated Strategic Government System for Managing Martyr Data, Families, Supervisors, and Injured Personnel
+- **[Alshahiid](https://github.com/MoAnwer/Alshahiid-System)** - A Comprehensive Integrated Strategic Government System for Managing Martyr Data, Families, Supervisors, and Injured Personnel
 
 ### 🏫 Educational & School Management
 - **[AL-Mirgani](https://github.com/MoAnwer/AL-Mirgani)** - Integrated accounting system for AL-Mirgani Private Educational Institution (Blade)
