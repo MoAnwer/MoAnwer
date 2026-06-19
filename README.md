@@ -41,16 +41,15 @@ I'm a developer with a strong foundation in **full-stack development**, speciali
 - **[Alshahiid](https://github.com/MoAnwer/Alshahiid-System)** - A Comprehensive Integrated Strategic Government System for Managing Martyr Data, Families, Supervisors, and Injured Personnel
 
 ### 🏫 Educational & School Management
-- **[AL-Mirgani](https://github.com/MoAnwer/AL-Mirgani)** - Integrated accounting system for AL-Mirgani Private Educational Institution (Blade)
+- **[AL-Mirgani](https://github.com/MoAnwer/CoolSchool)** - Integrated accounting system for AL-Mirgani Private Educational Institution
 - **[mySchool](https://github.com/MoAnwer/mySchool)** - School Accounts Management System with customizable financial reports (PHP)
 - **[Lyman](https://github.com/MoAnwer/Lyman)** - Educational Platform and Website
-- **[TechSchool](https://github.com/MoAnwer/TechSchool)** - Technical school management system (PHP)
+- **[TechSchool](https://github.com/MoAnwer/TechSchool)** - Technical school management app (PHP)
 
 ### 💰 Financial & Transaction Management
 - **[Monexo](https://github.com/MoAnwer/Monexo)** - Money transactions tracker application to help users track their financial situation
   - **[Monexo API](https://github.com/MoAnwer/monexo-api)** - Backend API (PHP)
   - **[Monexo Frontend](https://github.com/MoAnwer/monexo-main)** - Frontend interface (CSS)
-- **[TreeBankSystem](https://github.com/MoAnwer/TreeBankSystem)** - Bank management system (Java)
 
 ### 🛍️ E-commerce & Store Solutions
 - **[SoftStore](https://github.com/MoAnwer/SoftStore)** - E-commerce platform using Laravel 12, Filament PHP 3, Livewire 3, TailwindCSS, and Preline UI
@@ -60,18 +59,14 @@ I'm a developer with a strong foundation in **full-stack development**, speciali
 - **[Portfolio](https://github.com/MoAnwer/Protofolio)** - Personal portfolio website (TypeScript)
 - **[File Explorer](https://github.com/MoAnwer/File_Explorer)** - File management application (PHP)
 - **[Notes App](https://github.com/MoAnwer/notes_app)** - Notes management application (CSS)
-- **[JavaSchoolApp](https://github.com/MoAnwer/JavaSchoolApp)** - Java Swing desktop application
-- **[FinalProject](https://github.com/MoAnwer/FinalProject)** - Student management app (Java)
+- **[JavaSchoolApp](https://github.com/MoAnwer/Java-school-app)** - Java Swing desktop application
+- **[FinalProject](https://github.com/MoAnwer/FinalProject)** - Student management cli app (Java)
 
 ### 🎓 Educational & Learning Projects
 - **[Data Structure Sheets](https://github.com/MoAnwer/Data-structure-Sheets)** - Educational resources (HTML)
-- **[Java Tasks Manager](https://github.com/MoAnwer/Java_tasks_manager)** - Task management application (Java)
+- **[Java Tasks Manager](https://github.com/MoAnwer/Java_tasks_manager)** - Task management cli program (Java)
 - **[Learn Java](https://github.com/MoAnwer/learn_java)** - Java learning repository
-- **[Assembly Projects](https://github.com/MoAnwer/asm)** - Assembly language projects
-
-### 🔧 Utilities & Tools
-- **[GitHub Repository Fetcher](https://github.com/MoAnwer/github_get_repos)** - Small GitHub API integration tool (CSS)
-- **[PHP Laravel Docker Deployment](https://github.com/MoAnwer/php-laravel-docker)** - Laravel 11 with Docker deployment on Render
+- **[Assembly Projects](https://github.com/MoAnwer/asm)** - Assembly language codes
 
 ### 🎨 Frontend Projects
 - **[Bookmark Landing](https://github.com/MoAnwer/Bookmark_landing)** - Landing page
