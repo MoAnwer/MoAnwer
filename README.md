@@ -48,40 +48,12 @@ I'm a developer with a strong foundation in **full-stack development**, speciali
 
 ### 🛍️ E-commerce & Store Solutions
 - **[SoftStore](https://github.com/MoAnwer/SoftStore)** - E-commerce platform using Laravel 12, Filament PHP 3, Livewire 3, TailwindCSS, and Preline UI
-- **[Game_store_website](https://github.com/MoAnwer/Game_store_website)** - Game store landing page (HTML)
 
 ### 📱 Web & Desktop Applications
 - **[Portfolio](https://github.com/MoAnwer/Protofolio)** - Personal portfolio website (TypeScript)
 - **[File Explorer](https://github.com/MoAnwer/File_Explorer)** - File management application (PHP)
 - **[JavaSchoolApp](https://github.com/MoAnwer/Java-school-app)** - Java Swing desktop application
 
-### 🎓 Educational & Learning Projects
-- **[Data Structure Sheets](https://github.com/MoAnwer/Data-structure-Sheets)** - Educational resources (HTML)
-- **[Java Tasks Manager](https://github.com/MoAnwer/Java_tasks_manager)** - Task management cli program (Java)
-- **[Learn Java](https://github.com/MoAnwer/learn_java)** - Java learning repository
-- **[Assembly Projects](https://github.com/MoAnwer/asm)** - Assembly language codes
-
----
-
-## 🛠️ Key Skills
-
-**Backend Development**
-- PHP & Laravel
-- Java
-- RESTful API Design & Development
-- Database Design & Optimization
-- Server-side Architecture
-
-**Frontend Development**
-- HTML5 & CSS3
-- JavaScript & TypeScript
-- Responsive Web Design
-
-
-**Tools & Infrastructure**
-- Git & Version Control
-- Database Management (MySQL, etc.)
-- Web Deployment (Netlify, etc.)
 ---
 
 ## 📊 GitHub Statistics
@@ -95,8 +67,6 @@ I'm a developer with a strong foundation in **full-stack development**, speciali
 ---
 
 ## 📫 Let's Connect
-
-- **GitHub**: [github.com/MoAnwer](https://github.com/MoAnwer)
 - **Portfolio**: [moanwer](https://moanwer.netlify.app)
 ---
 
