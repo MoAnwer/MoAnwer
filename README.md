@@ -10,27 +10,6 @@ I'm a developer with a strong foundation in **full-stack development**, speciali
 
 ---
 
-## 💻 Tech Stack
-
-### Backend Development
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Mysql](https://img.shields.io/badge/MYSQL-777BB4?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frameworks & Tools
-![Git](https://img.shields.io/badge/Git-FF2D20?style=for-the-badge&logo=git&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
 ## 📚 Featured Projects
 
 ### 📱 Strategic Government System
@@ -53,6 +32,27 @@ I'm a developer with a strong foundation in **full-stack development**, speciali
 - **[Portfolio](https://github.com/MoAnwer/Protofolio)** - Personal portfolio website (TypeScript)
 - **[File Explorer](https://github.com/MoAnwer/File_Explorer)** - File management application (PHP)
 - **[JavaSchoolApp](https://github.com/MoAnwer/Java-school-app)** - Java Swing desktop application
+
+---
+
+## 💻 Tech Stack
+
+### Backend Development
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Mysql](https://img.shields.io/badge/MYSQL-777BB4?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frameworks & Tools
+![Git](https://img.shields.io/badge/Git-FF2D20?style=for-the-badge&logo=git&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
